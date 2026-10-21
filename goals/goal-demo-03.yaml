@@ -1,0 +1,10 @@
+{
+  "id": "goal-demo-03",
+  "title": "Sketch a fictional landing page",
+  "target": 10,
+  "current": 2,
+  "deadline": "2026-10-23",
+  "log": [
+    {"date": "2026-10-21T08:00:00Z", "increase": 2, "text": "Outlined two sample sections"}
+  ]
+}

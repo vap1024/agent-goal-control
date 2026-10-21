@@ -1,0 +1,10 @@
+{
+  "id": "goal-demo-02",
+  "title": "Build a sample reading list",
+  "target": 10,
+  "current": 3,
+  "deadline": "2026-10-28",
+  "log": [
+    {"date": "2026-10-18T08:00:00Z", "increase": 1, "text": "Added one fictional source"}
+  ]
+}

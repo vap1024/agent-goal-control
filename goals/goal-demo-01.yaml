@@ -1,0 +1,11 @@
+{
+  "id": "goal-demo-01",
+  "title": "Prepare a fictional workshop outline",
+  "target": 8,
+  "current": 5,
+  "deadline": "2026-11-15",
+  "log": [
+    {"date": "2026-10-20T10:00:00Z", "increase": 2, "text": "Drafted two sample sections"},
+    {"date": "2026-10-21T09:30:00Z", "increase": 1, "text": "Added a synthetic exercise"}
+  ]
+}
